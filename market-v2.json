@@ -500,9 +500,9 @@
             "gameType": "ARK: Survival Ascended",
             "category": "Latest Version",
             "runtime": "Windows 10/11 64-bit",
-            "hardware": "RAM 16G+、SSD",
+            "hardware": "RAM 16G+, SSD",
             "size": "",
-            "remark": "Allow UDP ports 7777, 7778, and 27015 through the firewall.",
+            "remark": "Allow UDP ports 7777, 7778, and 27015 through the firewall!",
             "targetLink": "",
             "author": "CollinHerber",
             "tags": [
